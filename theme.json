@@ -152,7 +152,7 @@
                     "palette": [
                         {"slug": "u-p-primiary" , "color": "rgb(50 168 68)" , "name": "Sandeep Color"}
                     ],
-                    "link": false,
+                    "link": true,
                     "custom": true,
                     "gradients": [],
                     "defaultGradients": false
